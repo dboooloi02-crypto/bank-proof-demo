@@ -1,0 +1,47 @@
+[
+  {
+    "source": "demo_001.png",
+    "time": "2024-12-31 21:49",
+    "amount": "-32.00",
+    "type": "支出",
+    "counterparty": "东都影城",
+    "trade_no": "4200002529202412318599019836",
+    "platform": "微信"
+  },
+  {
+    "source": "demo_002.png",
+    "time": "2024-12-31 18:30",
+    "amount": "+5000.00",
+    "type": "收入",
+    "counterparty": "工资发放",
+    "trade_no": "4200002529202412318599019837",
+    "platform": "微信"
+  },
+  {
+    "source": "demo_003.png",
+    "time": "2024-12-31 15:00",
+    "amount": "-128.00",
+    "type": "支出",
+    "counterparty": "美团外卖",
+    "trade_no": "4200002529202412318599019838",
+    "platform": "微信"
+  },
+  {
+    "source": "demo_004.png",
+    "time": "2025-01-02 09:15",
+    "amount": "-50000.00",
+    "type": "转账",
+    "counterparty": "张三",
+    "trade_no": "202501020915001234",
+    "platform": "银行"
+  },
+  {
+    "source": "demo_005.png",
+    "time": "2025-01-03 14:20",
+    "amount": "+1200.00",
+    "type": "转账",
+    "counterparty": "李四",
+    "trade_no": "202501031420005678",
+    "platform": "银行"
+  }
+]
